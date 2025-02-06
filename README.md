@@ -17,6 +17,10 @@ Projects
 🎨 Responsive Web Design – Developed a modern, fully responsive website using Flexbox and Grid.  
 🕹 IoT Game (Arduino) – Created an interactive reaction-based game with LED indicators and button interactions.
 
+---
+
+📫 Reach me at LinkedIn: [Josiane Souza](https://www.linkedin.com/in/josianesouza/)
+
 
 <!--
 **Souza-Josiane/Souza-Josiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
