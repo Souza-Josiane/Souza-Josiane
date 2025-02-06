@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Josiane! 👋
+
+I am a Junior Full-Stack Developer with experience in Java, JavaScript, and web development. Passionate about building efficient and scalable solutions, I have worked with modern technologies like React, Next.js, and Node.js. I enjoy optimizing applications, improving performance, and collaborating in agile teams. I'm eager to learn new technologies and grow professionally, always looking for ways to develop impactful projects that solve real-world problems.  
+Outside of coding, I enjoy learning about digital currencies and the world of technology. I'm particularly fascinated by how these innovations are shaping the future. I also focus on finding ways to make my life more practical and efficient, always looking for tools and solutions that streamline daily tasks.
+
+Technical Skills
+---
+✅ Languages & Frameworks: Java, JavaScript, Node.js, React, Next.js, HTML, CSS  
+✅ Software Development: OOP, MVC, RESTful APIs  
+✅ Database & Tools: MySQL, Git, GitHub  
+✅ Cloud & DevOps: Azure DevOps, CI/CD pipelines  
+✅ Other: Web performance optimization, responsive design, Agile  
+
+Projects
+---
+💡 API Development (Next.js) – Built RESTful APIs for web scraping, time zones, and weather data.  
+🎨 Responsive Web Design – Developed a modern, fully responsive website using Flexbox and Grid.  
+🕹 IoT Game (Arduino) – Created an interactive reaction-based game with LED indicators and button interactions.
+
 
 <!--
 **Souza-Josiane/Souza-Josiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
