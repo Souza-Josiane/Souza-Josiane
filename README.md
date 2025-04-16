@@ -5,7 +5,7 @@ Outside of coding, I enjoy learning about digital currencies and the world of te
 
 Technical Skills
 ---
-✅ Languages & Frameworks: Java, JavaScript, Json, Node.js, React, Next.js, HTML, CSS  
+✅ Languages & Frameworks: Java, JavaScript, JSON, Node.js, React, Next.js, HTML, CSS  
 ✅ Software Development: OOP, MVC, RESTful APIs, Postman  
 ✅ Database & Tools: MySQL, Git, GitHub  
 ✅ Cloud & DevOps: Azure DevOps, CI/CD pipelines  
