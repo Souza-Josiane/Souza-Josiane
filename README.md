@@ -13,9 +13,15 @@ Technical Skills
 
 Projects
 ---
-💡 API Development (Next.js) – Built RESTful APIs for web scraping, time zones, and weather data.  
-🎨 Responsive Web Design – Developed a modern, fully responsive website using Flexbox and Grid.  
-🕹 IoT Game (Arduino) – Created an interactive reaction-based game with LED indicators and button interactions.
+
+- **💡 API Development (Next.js)**  
+  Built RESTful APIs for web scraping, time zones, and weather data. This project showcases my ability to work with external data and create dynamic applications.
+  
+- **🎨 Responsive Web Design**  
+  Developed a modern, fully responsive website using Flexbox and Grid. The site adapts seamlessly across different screen sizes and devices.
+
+- **🕹 IoT Game (Arduino)**  
+  Created an interactive reaction-based game with LED indicators and button interactions. This project helped me explore hardware and software integration.
 
 ---
 
